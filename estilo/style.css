@@ -23,6 +23,7 @@ header h1 {
     color: #ffffff;
     text-shadow: 2px 2px 0px #000000b2;
     text-align: center;
+    font-size: 1.5em;
 }
 
 div {
@@ -84,4 +85,9 @@ strong.comp2 {
 footer {
     background-color: #ffa600d0;
     text-align: center;
+}
+
+footer img {
+    height: 100px;
+    margin-top: -30px;
 }
