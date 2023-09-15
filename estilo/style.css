@@ -70,9 +70,9 @@ h5 {
 
 strong {
     background-color: blue;
-    
     box-shadow: 1px 1px 1px #00000052;
     border-radius: 5px;
+    padding: 5px;
 }
 
 strong.comp2 {
@@ -80,6 +80,10 @@ strong.comp2 {
     color: blue;
     border: 1px solid rgba(0, 0, 0, 0.103);
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.452);
+}
+
+strong#jj {
+    font-size: 12px;
 }
 
 footer {
