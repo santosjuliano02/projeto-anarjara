@@ -17,10 +17,10 @@ body{
 header {
     background-color: rgba(0, 0, 255, 0.788);
     color: #ffffff;
+    min-height: 150px;
     text-align: center;
     width: 100vw;
-    padding: 3px;
-}
+    padding-top: 40px;
 
 img {
     background-color: green;
