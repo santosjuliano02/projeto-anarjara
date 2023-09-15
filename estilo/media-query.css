@@ -17,6 +17,7 @@
     }
     
     header h1 {
+        background-color: rgba(0, 0, 255, 0.795);
         margin-top: 20px;
         color: #ffffff;
         text-shadow: 2px 2px 0px #000000b2;
@@ -102,6 +103,7 @@
     }
     
     header h1 {
+        background-color: rgba(0, 0, 255, 0.795);
         margin-top: 20px;
         color: #ffffff;
         text-shadow: 2px 2px 0px #000000b2;
