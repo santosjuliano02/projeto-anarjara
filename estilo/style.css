@@ -101,7 +101,7 @@ div#foto3 img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-150%,172%);
+    transform: translate(-150%,142%);
 }
 
 div#foto4 {
@@ -115,4 +115,9 @@ div#foto4 {
     top: 50%;
     left: 50%;
     transform: translate(-100%,275%);
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
 }
