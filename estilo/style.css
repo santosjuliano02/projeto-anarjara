@@ -69,11 +69,16 @@ h5 {
 
 strong {
     background-color: blue;
+    
+    box-shadow: 1px 1px 1px #00000052;
+    border-radius: 5px;
 }
 
 strong.comp2 {
     background-color: #ffffff;
     color: blue;
+    border: 1px solid rgba(0, 0, 0, 0.103);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.452);
 }
 
 footer {
