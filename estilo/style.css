@@ -3,42 +3,77 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
 }
 
-body{
-    background-color: rgba(255, 166, 0, 0.849);
-    width: 100vw;
-    height: 100vh;
-    background-size: contain;
-    background-repeat: no-repeat;
+body, html {
+    background-color: #ffa600d0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    height: 96vh;
 }
 
 header {
-    background-color: rgba(0, 0, 255, 0.788);
-    color: #ffffff;
-    min-height: 150px;
+    min-width: 320px;
+    background-color: rgba(0, 0, 255, 0.795);
     text-align: center;
-    width: 100vw;
-    padding-top: 40px;
-
-img {
-    background-color: green;
-    padding: 5px;
-    transform: translatey(5px);
 }
 
-div#titulo {
+header h1 {
+    margin-top: 20px;
+    color: #ffffff;
+    text-shadow: 2px 2px 0px #000000b2;
+    text-align: center;
+}
+
+div {
+    margin: 5px;
     text-align: right;
 }
 
-div#titulo img {
-    height: 70px;
+img#foto {
+    width: 60px;
 }
 
-form {
+main {
+    min-width: 320px;
+    max-width: 1000px;
+    margin: auto;
+    color: #ffffff;
+}
+
+main p {
+    text-align: center;
+    text-shadow: 2px 2px 0px #00000054;
+    font-size: 1.5em;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    text-shadow: -3px 1px 0px #ffffff;
+}
+
+h5 {
+    color: #0000ff;
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+
+strong {
+    background-color: blue;
+}
+
+strong.comp2 {
+    background-color: #ffffff;
+    color: blue;
+}
+
+footer {
     text-align: center;
 }
-
-img#foto1 {
-   
