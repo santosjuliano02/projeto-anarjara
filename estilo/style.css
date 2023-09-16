@@ -85,7 +85,7 @@ strong.comp2 {
 }
 
 #jj {
-    font-size: 12px;
+    font-size: 13px;
 }
 
 footer {
@@ -103,7 +103,7 @@ div#foto3 img {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-150%, 185%);
+    transform: translate(-150%, 225%);
 }
 
 div#foto4 {
@@ -117,10 +117,6 @@ div#foto4 {
     top: 50%;
     left: 50%;
     transform: translate(-100%,375%);
-}
-
-#segunda {
-
 }
 
 ::-webkit-scrollbar {
