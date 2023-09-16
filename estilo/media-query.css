@@ -82,6 +82,29 @@
         background-color: #ffa600d0;
         text-align: center;
     }
+
+    div#foto3 img {
+        width: 75px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-150%, 148%);
+    }
+
+    div#foto4 {
+        background-color: #a9a9a942;
+        color: #0000ff;
+        font-size: 20px;
+        font-weight: bolder;
+        text-shadow: 1px 1px 1px #ffffff;
+    
+    
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-100%,275%);
+    }
+    
 }
 
 @media screen and (min-width: 992px) {
@@ -168,4 +191,27 @@
         background-color: #ffa600d0;
         text-align: center;
     }
+
+    div#foto3 img {
+        width: 75px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-150%, 143%);
+    }
+
+    div#foto4 {
+        background-color: #a9a9a942;
+        color: #0000ff;
+        font-size: 20px;
+        font-weight: bolder;
+        text-shadow: 1px 1px 1px #ffffff;
+    
+    
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-100%,275%);
+    }
+    
 }
