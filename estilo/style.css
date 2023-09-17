@@ -97,7 +97,7 @@ footer {
 
 footer img {
     height: 170px;
-    margin-top: -50px;
+    margin-top: -45px;
 }
 
 div#foto3 img {
@@ -114,7 +114,7 @@ div#foto4 {
     font-size: 20px;
     font-weight: bolder;
     text-shadow: 1px 1px 1px #ffffff;
-    border: 1px solid black;
+    border: 1px solid rgba(0, 0, 0, 0.473);
 
 
     position: absolute;
