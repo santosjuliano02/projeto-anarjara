@@ -192,7 +192,7 @@
         text-align: center;
     }
 
-    div#foto3 img {
+    /*div#foto3 img {
         width: 75px;
         position: absolute;
         top: 50%;
@@ -212,7 +212,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-100%,290%);
-    }
+    } */
     
 }
 
@@ -301,7 +301,7 @@
         text-align: center;
     }
 
-    div#foto3 img {
+   /* div#foto3 img {
         width: 75px;
         position: absolute;
         top: 50%;
@@ -321,6 +321,6 @@
         top: 50%;
         left: 50%;
         transform: translate(-100%,290%);
-    }
+    }*/
     
 }
