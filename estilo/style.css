@@ -113,6 +113,7 @@ div#foto4 {
     font-size: 20px;
     font-weight: bolder;
     text-shadow: 1px 1px 1px #ffffff;
+    border: 1px solid black;
 
 
     position: absolute;
