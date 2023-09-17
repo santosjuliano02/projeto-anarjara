@@ -97,7 +97,7 @@ footer {
 
 footer img {
     height: 170px;
-    margin-top: -40px;
+    margin-top: -50px;
 }
 
 div#foto3 img {
@@ -106,7 +106,7 @@ div#foto3 img {
     top: 50%;
     left: 50%;
 
-    transform: translate(-155%, 165%);
+    transform: translate(-155%, 158%);
 }
 
 div#foto4 {
