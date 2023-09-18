@@ -97,7 +97,7 @@ footer {
 
 footer img {
     height: 170px;
-    margin-top: -47px;
+    margin-top: -48px;
 }
 
 div#foto3 img {
@@ -120,7 +120,7 @@ div#foto4 {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-100%,265%);
+    transform: translate(-100%,235%);
 }
 
 ::-webkit-scrollbar {
