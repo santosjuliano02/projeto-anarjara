@@ -110,14 +110,14 @@ section {
 
 section img {
     position: absolute;
-    width: 110px;
+    width: 75px;
     
 
     top: 50%;
     left: 50%;
 
 
-    transform: translate(-50%, 300%);
+    transform: translate(-167%, 526%);
 }
 
 div#numero6 {
