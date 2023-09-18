@@ -128,11 +128,16 @@ div#foto4 {
 }
 
 div#numero6 {
+    position: relative;
     display: inline-block;
     border: 1px solid black;
     width: 20px;
     text-align: center;
     font-weight: bolder;
+    padding: 5px;
+    top: 50%;
+    left: 50%;
+    transform: translate();
 }
 
 ::-webkit-scrollbar {
