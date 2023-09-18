@@ -117,7 +117,7 @@ section img {
     left: 50%;
 
 
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, 300%);
 }
 
 div#numero6 {
