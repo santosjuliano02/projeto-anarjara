@@ -53,12 +53,16 @@ main p {
 }
 
 h3 {
-    color: #0000ffdc;
+    background-color: #2f2fffce;
+    color: #ffffff;
     text-align: center;
+    border-radius: 3px;
     font-size: 2em;
+    padding-left: 20px;
+    padding-right: 20px;
     margin-top: 20px;
-    margin-bottom: 20px;
-    text-shadow: -3px 1px 0px #ffffffce;
+    margin-bottom: 30px;
+    text-shadow: -3px 1px 0px #0c010149;
 }
 
 h5 {
