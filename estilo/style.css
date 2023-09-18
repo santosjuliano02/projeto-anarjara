@@ -95,32 +95,6 @@ strong.comp2 {
 }
 
 
-
-
-
-div#foto3 img {
-    height: 120px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-
-    transform: translate(-227%, 138%);
-}
-
-div#foto4 {
-    color: blue;
-    font-size: 20px;
-    font-weight: bolder;
-    text-shadow: 1px 1px 1px #ffffff;
-    border: 1px solid rgba(0, 0, 0, 0.473);
-
-
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-100%,235%);
-}
-
 div#numero6 {
     position: relative;
     display: inline-block;
