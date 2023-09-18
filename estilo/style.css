@@ -100,17 +100,17 @@ footer {
 }
 
 footer img {
-    height: 170px;
-    margin-top: -48px;
+    height: 250px;
+    margin-top: -45px;
 }
 
 div#foto3 img {
-    width: 75px;
+    height: 120px;
     position: absolute;
     top: 50%;
     left: 50%;
 
-    transform: translate(-155%, 145%);
+    transform: translate(-142%, 185%);
 }
 
 div#foto4 {
@@ -125,6 +125,13 @@ div#foto4 {
     top: 50%;
     left: 50%;
     transform: translate(-100%,235%);
+}
+
+div#numero1 {
+    display: inline-block;
+    border: 1px solid black;
+    width: 20px;
+    text-align: center;
 }
 
 ::-webkit-scrollbar {
