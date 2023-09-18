@@ -94,6 +94,10 @@ strong.comp2 {
     font-size: 13.5px;
 }
 
+footer {
+    text-align: center;
+}
+
 footer img {
     width: 400px;
 }
