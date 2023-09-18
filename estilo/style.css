@@ -127,11 +127,12 @@ div#foto4 {
     transform: translate(-100%,235%);
 }
 
-div#numero1 {
+div#numero6 {
     display: inline-block;
     border: 1px solid black;
     width: 20px;
     text-align: center;
+    font-weight: bolder;
 }
 
 ::-webkit-scrollbar {
