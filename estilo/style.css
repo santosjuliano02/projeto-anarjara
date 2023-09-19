@@ -126,12 +126,11 @@ div#numero1 {
     font-size: 20px;
     display: inline-block;
     text-shadow: 1px 1px 0px #ffffff;
-    border: 1px solid rgb(0, 0, 0);
-    padding: 5px;
+
 
     top: 50%;
     left: 50%;
-    transform: translate(280%, 1230%);
+    transform: translate(280%, 1800%);
 }
 
 div#numero6 {
@@ -146,7 +145,7 @@ div#numero6 {
     padding: 3px;
     top: 50%;
     left: 50%;
-    transform: translate(-428%, 2750%);
+    transform: translate(-328%, 2750%);
 }
 
 ::-webkit-scrollbar {
