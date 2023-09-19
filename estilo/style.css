@@ -96,7 +96,7 @@ strong.comp2 {
 
 footer {
     margin-top: -60px;
-    text-align: center;
+    text-align: left;
 }
 
 footer img {
@@ -111,7 +111,7 @@ section {
 
 section img {
     position: absolute;
-    width: 80px;
+    width: 90px;
     
 
     top: 50%;
