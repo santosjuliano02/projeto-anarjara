@@ -95,7 +95,7 @@ strong.comp2 {
 }
 
 footer {
-    margin-top: -20px;
+    margin-top: -25px;
     text-align: center;
 }
 
@@ -141,4 +141,19 @@ div#numero6 {
 
 main footer {
     text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(970%, 2800%);
+}
+
+th {
+    border: 1px solid #000000;
+    color: #3207f5;
+    font-weight: bolder;
+    text-shadow: 1px 1px 0px #ffffff;
 }
