@@ -111,7 +111,7 @@ section {
 
 section img {
     position: absolute;
-    width: 90px;
+    width: 79px;
     
 
     top: 50%;
@@ -148,7 +148,7 @@ table {
     top: 50%;
     left: 50%;
 
-    transform: translate(970%, 2800%);
+    transform: translate(970%, 3300%);
 }
 
 th {
