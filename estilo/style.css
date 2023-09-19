@@ -118,7 +118,13 @@ section img {
     left: 50%;
 
 
-    transform: translate(-167%, 457.5%);
+    transform: translate(-177%, 457.5%);
+}
+
+div#numero1 {
+    top: 50%;
+    left: 50%;
+    transform: translate(-70%, 2000%);
 }
 
 div#numero6 {
