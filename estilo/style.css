@@ -118,7 +118,7 @@ section img {
     left: 50%;
 
 
-    transform: translate(-177%, 457.5%);
+    transform: translate(-177%, 357.5%);
 }
 
 div#numero1 {
@@ -130,7 +130,7 @@ div#numero1 {
 
     top: 50%;
     left: 50%;
-    transform: translate(280%, 1800%);
+    transform: translate(480%, 1550%);
 }
 
 div#numero6 {
@@ -145,7 +145,7 @@ div#numero6 {
     padding: 3px;
     top: 50%;
     left: 50%;
-    transform: translate(-328%, 2750%);
+    transform: translate(-328%, 2720%);
 }
 
 ::-webkit-scrollbar {
