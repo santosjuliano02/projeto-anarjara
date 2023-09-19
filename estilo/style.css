@@ -125,13 +125,13 @@ div#numero6 {
     position: relative;
     display: inline-block;
     border: 1px solid black;
-    width: 3px;
-    text-align: initial;
+    font-size: 10px;
+    text-align: center;
     font-weight: bolder;
     padding: 5px;
     top: 50%;
     left: 50%;
-    transform: translate(-950%, 800%);
+    transform: translate(-550%, 800%);
 }
 
 ::-webkit-scrollbar {
