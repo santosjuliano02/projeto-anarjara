@@ -131,7 +131,7 @@ div#numero6 {
     padding: 3px;
     top: 50%;
     left: 50%;
-    transform: translate(-550%, 800%);
+    transform: translate(-550%, 2000%);
 }
 
 ::-webkit-scrollbar {
