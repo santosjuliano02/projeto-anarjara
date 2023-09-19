@@ -123,13 +123,14 @@ section img {
 
 div#numero1 {
     color: #3207f5;
+    font-size: 20px;
     display: inline-block;
     text-shadow: 1px 1px 0px #ffffff;
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
 
     top: 50%;
     left: 50%;
-    transform: translate(550%, 2000%);
+    transform: translate(530%, 2000%);
 }
 
 div#numero6 {
@@ -137,14 +138,14 @@ div#numero6 {
     text-shadow: 1px 1px 0px #ffffff;
     position: relative;
     display: inline-block;
-    border: 1px solid rgba(0, 0, 0, 0.719);
+    border: 1px solid rgb(0, 0, 0);
     font-size: 10px;
     text-align: center;
     font-weight: bolder;
     padding: 3px;
     top: 50%;
     left: 50%;
-    transform: translate(-448%, 2600%);
+    transform: translate(-448%, 2750%);
 }
 
 ::-webkit-scrollbar {
